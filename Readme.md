@@ -209,7 +209,7 @@ Từ đó:
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/minhquanquach/data_explorers.git
+git clone https://github.com/AIVIETNAM-AIO-MQQ/data_explorers.git
 cd Data_Explorers_2026
 ```
 
